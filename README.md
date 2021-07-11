@@ -13,7 +13,7 @@ HTML, CSS and JavaScript
 ## Usage
 
 ```bash
-Open index.html on the browser
+Open home.html on the browser
 ```
 
 ## Made by
