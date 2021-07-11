@@ -135,7 +135,8 @@ a {
   background-size: cover;
 }
 .hero-description {
-  width: 85%;
+  margin-left: 4em;
+  margin-right: 4em;
 }
 .hero-img img {
   width: 100%;
@@ -415,6 +416,8 @@ footer {
   }
   .hero-description {
     width: 45%;
+    margin-left: 1em;
+    margin-right: 0;
   }
   .hero-description h1,
   .hero-description p {
