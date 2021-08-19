@@ -23,3 +23,7 @@ Rukhsar Prween saba
 ## Project Source
 
 [Source Link](https://gitlab.com/mountblue/js/easybank-landing-page)
+
+## Project Deployed Link
+
+[Deployed Link](https://easy-bank-project.herokuapp.com/)
