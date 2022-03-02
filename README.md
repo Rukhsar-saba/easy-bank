@@ -1,4 +1,4 @@
-# Easybank
+# Easybank Project
 
 Easybank is a single-page HTML and CSS project.
 
